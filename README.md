@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" />
+    <img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" />
   </div>
   <div>
     <h1>👨‍💻 마혁진 (Hyeokjin Ma)</h1>
