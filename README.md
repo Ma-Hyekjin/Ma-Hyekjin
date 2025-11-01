@@ -1,36 +1,31 @@
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; margin-bottom: 16px;">
-  <tr style="border: none;">
-    <td width="220" style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" />
-    </td>
-    <td style="border: none; vertical-align: top;">
-      <h1>👨‍💻 마혁진 (Hyeokjin Ma)</h1>
-      <hr>
-      <h3>AI Service Dev, Software Engineer</h3>
-      <h3>사람을 위한 기술을 고안하고 활용하는 엔지니어</h3>
-      <hr>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" align="left" style="margin-right: 20px;" />
+
+<h1>👨‍💻 마혁진 (Hyeokjin Ma)</h1>
+<hr>
+<h3>AI Service Dev, Software Engineer</h3>
+<h3>사람을 위한 기술을 고안하고 활용하는 엔지니어</h3>
+<hr>
+
+---
 
 ### 💡 Contact
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none; padding-bottom: 10px; vertical-align: top;">
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding-bottom: 10px;">
       ✉️ **Email**<br>
       tema0311@naver.com
     </td>
-    <td width="50%" style="border: none; padding-bottom: 10px; vertical-align: top;">
+    <td width="50%" valign="top" style="padding-bottom: 10px;">
       💾 **GitHub**<br>
       <a href="https://github.com/Ma-Hyekjin">https://github.com/Ma-Hyekjin</a>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top;">
+  <tr>
+    <td width="50%" valign="top">
       📞 **Phone**<br>
       010-8007-7504
     </td>
-    <td width="50%" style="border: none; vertical-align: top;">
+    <td width="50%" valign="top">
       💾 **[Portfolio] Notion**<br>
       <a href="https://www.notion.so/29e0ccfd1de5801c823dcfa0b7bb0c9a">https://www.notion.so/29e0ccfd1de5...</a>
     </td>
