@@ -15,17 +15,17 @@
 
 <div style="display: flex; width: 100%; gap: 4%;">
   <div style="width: 48%;">
-    ✉️ **Email**<br>
+    ✉️ Email<br>
     tema0311@naver.com
     <br><br>
-    📞 **Phone**<br>
+    📞 Phone<br>
     010-8007-7504
   </div>
   <div style="width: 48%;">
-    💾 **GitHub**<br>
+    💾 GitHub<br>
     <a href="https://github.com/Ma-Hyekjin">https://github.com/Ma-Hyekjin</a>
     <br><br>
-    💾 **[Portfolio] Notion**<br>
+    💾 [Portfolio] Notion<br>
     <a href="https://www.notion.so/29e0ccfd1de5801c823dcfa0b7bb0c9a">https://www.notion.so/29e0ccfd1de5...</a>
   </div>
 </div>
