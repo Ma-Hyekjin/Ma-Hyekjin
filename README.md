@@ -1,38 +1,34 @@
-<table width="100%" border="0">
-  <tr>
-    <td width="220" valign="top">
-      <img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" />
-    </td>
-    <td valign="top">
-      <h1>👨‍💻 마혁진 (Hyeokjin Ma)</h1>
-      <h3>AI Service Dev, Software Engineer</h3>
-      <h3>사람을 위한 기술을 고안하고 활용하는 엔지니어</h3>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/%E1%84%86%E1%85%A1%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpeg?raw=true" width="200" />
+  </div>
+  <div>
+    <h1>👨‍💻 마혁진 (Hyeokjin Ma)</h1>
+    <h3>AI Service Dev, Software Engineer</h3>
+    <h3>사람을 위한 기술을 고안하고 활용하는 엔지니어</h3>
+  </div>
+</div>
 
 ---
 
 ### 💡 Contact
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      ✉️ **Email**<br>
-      tema0311@naver.com
-      <br><br>
-      📞 **Phone**<br>
-      010-8007-7504
-    </td>
-    <td width="50%" valign="top">
-      💾 **GitHub**<br>
-      <a href="https://github.com/Ma-Hyekjin">https://github.com/Ma-Hyekjin</a>
-      <br><br>
-      💾 **[Portfolio] Notion**<br>
-      <a href="https://www.notion.so/29e0ccfd1de5801c823dcfa0b7bb0c9a">https://www.notion.so/29e0ccfd1de5...</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; width: 100%; gap: 4%;">
+  <div style="width: 48%;">
+    ✉️ **Email**<br>
+    tema0311@naver.com
+    <br><br>
+    📞 **Phone**<br>
+    010-8007-7504
+  </div>
+  <div style="width: 48%;">
+    💾 **GitHub**<br>
+    <a href="https://github.com/Ma-Hyekjin">https://github.com/Ma-Hyekjin</a>
+    <br><br>
+    💾 **[Portfolio] Notion**<br>
+    <a href="https://www.notion.so/29e0ccfd1de5801c823dcfa0b7bb0c9a">https://www.notion.so/29e0ccfd1de5...</a>
+  </div>
+</div>
 
 ---
 
