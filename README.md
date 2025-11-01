@@ -22,6 +22,7 @@
     010-8007-7504<br>
   </div>
   <div style="width: 48%;">
+    <br>
     💾 GitHub<br>
     <a href="https://github.com/Ma-Hyekjin">https://github.com/Ma-Hyekjin</a>
     <br><br>
