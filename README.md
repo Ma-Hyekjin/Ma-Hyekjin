@@ -17,7 +17,7 @@
   <div style="width: 48%;">
     ✉️ Email<br>
     tema0311@naver.com
-    <br><br>
+    <br>
     📞 Phone<br>
     010-8007-7504
   </div>
