@@ -19,13 +19,13 @@ tema0311@naver.com
 📞 **Phone**
 010-8007-7504
 
-💾 **[Resume] Notion**
+💾 **[Resume] Notion**
 
-![pIe5Wh.png]([%EC%9D%B4%EB%A0%A5%EC%84%9C/pIe5Wh.png](https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-portfolio.png?raw=true))
+![notion-resume.png](https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-resume.png?raw=true)
 
-💾 **[portfolio] Notion**
+💾 **[portfolio] Notion**
 
-![notion-portfolio.png](%EC%9D%B4%EB%A0%A5%EC%84%9C/notion-portfolio.png)
+![notion-portfolio.png](https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-portfolio.png?raw=true)
 
 ---
 
