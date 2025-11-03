@@ -21,11 +21,11 @@ tema0311@naver.com
 
 💾 **[Resume] Notion**
 
-![notion-resume.png](https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-resume.png?raw=true)
+<img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-resume.png?raw=true" width="150" alt="Resume QR Code">
 
 💾 **[portfolio] Notion**
 
-![notion-portfolio.png](https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-portfolio.png?raw=true)
+<img src="https://github.com/Ma-Hyekjin/Ma-Hyekjin/blob/main/notion-portfolio.png?raw=true" width="150" alt="Portfolio QR Code">
 
 ---
 
