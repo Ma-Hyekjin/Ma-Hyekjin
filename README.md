@@ -49,11 +49,11 @@ tema0311@naver.com
 
 ### 🚀 Experiences & Projects
 
-**리뷰메이트 | Fullstack, PM 2025.09 - Present**
+**리뷰메이트 (v1) | AI Service Dev, PM 2025.09 - 2025.11**
 
-- AI 기반 리뷰 생성 서비스(Next.js) 기획 및 총괄. UI/UX 및 서비스 고도화 단계
+- AI 기반 리뷰 생성 서비스(Next.js) 기획 및 총괄. UI/UX 및 서비스 고도화
 
-**무드매니저 | Fullstack, PM  2025.09 - Present**
+**무드매니저 (v1) | System Architecture, Fullstack, PM  2025.09 - 2025.11**
 
 - LG전자 산학협력 프로젝트. AI 멀티모달 서비스 시스템(Next.js, Kotlin) 설계 및 개발 주도
 
